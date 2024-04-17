@@ -8,7 +8,7 @@ It is simple Child Detector Model made using Machine learning.
 
 -> Extract the Dataset to your repository folder
 
--> Open the [Model Jupyter Notebook](https://github.com/Jabhinay24/Bald_Head_Detector/blob/main/Model%20Notebook.ipynb)
+-> Open the [Model Jupyter Notebook](https://github.com/Jabhinay24/Child_Detector/blob/main/Notebook(Version%202-Better%20Accuracy).ipynb)
 
 -> Run this Notebook
 
