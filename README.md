@@ -17,12 +17,12 @@ It is simple Child Detector Model made using Machine learning.
 -> See the result
 
 ## Sample Outputs:
-### Sample Output 1:
-![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
-### Sample Output 2:
-![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
-### Sample Output 3:
-![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
-### Sample Output 4:
-![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
+#### Sample Output 1:
+![Sample Testcase 1](https://github.com/Jabhinay24/Child_Detector/blob/main/Output%201-Child.png)
+#### Sample Output 2:
+![Sample Testcase 2](https://github.com/Jabhinay24/Child_Detector/blob/main/Output%202-%20Child.png)
+#### Sample Output 3:
+![Sample Testcase 3](https://github.com/Jabhinay24/Child_Detector/blob/main/Output%203-%20Adult.png)
+#### Sample Output 4:
+![Sample Testcase 4](https://github.com/Jabhinay24/Child_Detector/blob/main/Output%204%20-%20Adult.png)
 
