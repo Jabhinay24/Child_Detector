@@ -12,4 +12,6 @@ It is simple Child Detector Model made using Machine learning.
 
 -> Run this Notebook
 
+-> Run the GUI file
+
 -> See the result
