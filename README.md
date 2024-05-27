@@ -15,3 +15,14 @@ It is simple Child Detector Model made using Machine learning.
 -> Run the GUI file
 
 -> See the result
+
+## Sample Outputs:
+### Sample Output 1:
+![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
+### Sample Output 2:
+![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
+### Sample Output 3:
+![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
+### Sample Output 4:
+![Sample Testcase 1](https://github.com/Jabhinay24/Age_Gender_Detector/blob/main/Output%201.png)
+
